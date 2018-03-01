@@ -1,0 +1,1 @@
+TooltipCompat.setTooltipText(myView, getString(R.string.tooltip));

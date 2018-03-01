@@ -1,0 +1,1 @@
+<item name="colorControlHighlight">@color/colorAccent</item>
