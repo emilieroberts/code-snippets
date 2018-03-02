@@ -1,6 +1,6 @@
-#Android on Chrome OS - Code Snippets
+# Android on Chrome OS - Code Snippets
 
-##This is not an official Google product
+## This is not an official Google product
 
 Some code snippets demostrating optimizing Android applications
 for Chrome OS.
